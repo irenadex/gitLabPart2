@@ -1,0 +1,35 @@
+commit 9752b77536520cd2d7c050bca19cedf05f124164
+Author: Алиса Первухина <alisadex@MacBook-Pro-Alisa.local>
+Date:   Wed Feb 15 21:56:58 2023 +0300
+
+    Change .gitignore
+
+commit c56073542ed492b66949f3806b9ba04caa60ef01
+Author: Алиса Первухина <alisadex@MacBook-Pro-Alisa.local>
+Date:   Wed Feb 15 21:49:11 2023 +0300
+
+    Add .gitignore
+
+commit af5fe445c07f2646d59e0b7ba618d1e118a814f4
+Author: Алиса Первухина <alisadex@MacBook-Pro-Alisa.local>
+Date:   Sun Feb 12 20:55:15 2023 +0300
+
+    Master Commit
+
+commit 7b20649ce9ac15b63d950b269adc4348ab2af09c
+Author: Алиса Первухина <alisadex@MacBook-Pro-Alisa.local>
+Date:   Sun Feb 12 20:44:54 2023 +0300
+
+    Merge Commit
+
+commit 57822a48e498556f3df54ee4eb77e584d5ef304b
+Author: Алиса Первухина <alisadex@MacBook-Pro-Alisa.local>
+Date:   Sun Feb 12 20:34:09 2023 +0300
+
+    Second commit
+
+commit a77463297d7f8e072abd0e871be1665c8c532e80
+Author: Алиса Первухина <alisadex@MacBook-Pro-Alisa.local>
+Date:   Sun Feb 12 20:32:47 2023 +0300
+
+    First commit
